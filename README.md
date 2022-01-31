@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @dhow
-## We're working on the future of human coordination. Come build with us at [degentoken.xyz](https://degentoken.xyz)
+## We're working on blockchain community stuff, come build with us at [degentoken.xyz](https://degentoken.xyz)
 - 📫 Reach me @ dhow@degentoken.xyz or [https://twitter.com/dhowdao](@dhowdao)
 
 <!---
