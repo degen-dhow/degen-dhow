@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @dhow
 ## We're working on blockchain community stuff, come build with us at [degentoken.xyz](https://degentoken.xyz)
-- 📫 Reach me @ dhow@degentoken.xyz or [https://twitter.com/dhowdao](@dhowdao)
+- 📫 Reach me @ dhow@degentoken.xyz or [@dhowdao](https://twitter.com/dhowdao)
 
 <!---
 degen-dhow/degen-dhow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
